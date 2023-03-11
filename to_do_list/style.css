@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+* {
+    font-family: 'Tilt Neon', cursive;
+    margin: 0px;
+    padding: 0px;
+}
+
+.naslov {
+    background-color:blue;
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#inputed_text {
+    position: relative;
+    width: 40%;
+    height: 25px;
+    left: 30%;
+}
+
+#add {
+    cursor: pointer;
+    position: fixed;
+    left:1080px;
+    background-color: transparent;
+}
+
+#add:hover {
+    background-color: #5089c7;
+    color:white;
+    transition: 0.5s;
+}
+
+p {
+    position: relative;
+    width: 40%;
+    height: 25px;
+    left: 30%;
+    border: 2px solid #6477a1
+}
+
+#deleteButton {
+    cursor: pointer;
+    position: fixed;
+    margin-top: -25px;
+    left:1080px;
+}
+
+#deleteButton:hover {
+    background-color: #5089c7;
+    color:white;
+    transition: 0.5s;
+}
